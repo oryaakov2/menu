@@ -1,3 +1,3 @@
 # menu
 
-[Demo](menu-o.netlify.app)
+[Demo](https://menu-o.netlify.app)
