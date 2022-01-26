@@ -10,7 +10,7 @@ const Menu = (props) => {
           <div className="item-info">
             <header>
               <h4>{item.title}</h4>
-              <h4 className='price'>{item.price.toFixed(2)}</h4>
+              <h4 className='price'>${item.price.toFixed(2)}</h4>
             </header>
             <p className="item-text">{item.desc}</p>
           </div>
